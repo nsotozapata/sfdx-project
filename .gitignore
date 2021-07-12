@@ -6,10 +6,6 @@
 .sfdx/
 .localdevserver/
 
-.sfdx
-.vscode
-.DS_Store
-
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
@@ -40,3 +36,8 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+
+
+.sfdx
+.vscode
+.DS_Store
